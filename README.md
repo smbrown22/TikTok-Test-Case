@@ -1,11 +1,11 @@
 # TikTok-Test-Case
 
-<h1>Positive Tests</h1>
+<h2>Positive Tests</h2>
 
-<h1>Negative Tests</h1> 
+<h2>Negative Tests</h2> 
 
-<h1>Boundary Tests</h1>
+<h2>Boundary Tests</h2>
 
-<h1>Black Box Tests</h1> 
+<h2>Black Box Tests</h2> 
 
-<h1>Edge Cases Tests</h1> 
+<h2>Edge Cases Tests</h2> 

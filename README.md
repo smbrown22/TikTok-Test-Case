@@ -80,17 +80,17 @@ User is not able to upload Video
 User is logged in 
 Tap 'Upload', select helloWorld.mp4 
 Size of helloWorld.mp4 is 258 MB. 
-Length is 601 seconds. 
+Length is 500 seconds. 
 Aspect Ratio is 9:16, Resolution is 720 x 1280.
 
-Expected: Unable to upload, video is too long. Medium Priority 
+Expected: Fine to upload.  
 
 <h4>TC_BlackBox_Route_2</h4> 
 
 User is logged in 
-Tap 'Upload', select byeWorld.mp4 
-Size of byeWorld.mp4 is 30 MB. 
-Length is 3 seconds. 
+Tap 'Upload', select *bloopBleep.mp4 
+Size of *bloopBleep.mp4 is 56 MB. 
+Length is 30 seconds. 
 Aspect Ratio is 9:16, Resolution is 720 x 1280.  
 
 Expected: Unable to upload, file has a special character in the name. 
